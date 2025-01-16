@@ -2,8 +2,7 @@
 
 target-version = "py39"
 
-[tool.ruff.lint]
-
+[tool.ruff.lint.rules]
 extend-select = [
   "B",
   "C",
